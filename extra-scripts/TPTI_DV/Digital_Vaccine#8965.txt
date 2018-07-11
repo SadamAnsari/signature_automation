@@ -1,0 +1,63 @@
+sign_id,alarm_name,alarm_desc,CV_Exposures
+28001,HTTP: Trend Micro Threat Discovery Appliancelogoff.cgi Directory Traversal Vulnerability,This filter detects an attempt toexploit a directory traversal vulnerability in Trend Micro Threat DiscoveryAppliance.,CVE-2016-7552 CVSS 10.0
+28002,HTTP: Trend Micro Threat Discovery Applianceadmin_sys_time.cgi Command Injection Vulnerability,This filter detects an attempt toexploit a command injection vulnerability in Trend Micro Threat DiscoveryAppliance.,
+28401,HTTP: MediaWiki SyntaxHighlight Extension CodeInjection Vulnerability,This filter detects an attempt toexploit a command injection vulnerability in MediaWiki.,CVE-2017-0372
+28535,HTTPS: Trend Micro InterScan Web SecuritytestConfiguration Command Injection (ZDI-17-232),This filter detects an attempt toexploit a command injection vulnerability in Trend Micro InterScan Web SecurityVirtual Appliance (IWSVA).,
+28549,HTTP: Microsoft Windows Animated Cursor BufferOverflow Vulnerability,This filter detects an attempt toexploit a buffer overflow vulnerability in Microsoft Windows.,CVE-2007-0038 CVSS 9.3
+28550,HTTP: Sun Java Runtime Environment /Java DevelopmentKit Splashscreen PNG Processing Buffer Overflow,This filter detects an attempt toexploit a buffer overflow vulnerability in Sun Java Development Kit (JDK) andJava Runtime Environment (JRE).,CVE-2009-1097 CVSS 9.3
+28551,SCCP: Digium Asterisk chan_skinny SCCP packetDenial-of-Service Vulnerability,This filter detects an attempt toexploit a denial-of-service vulnerability in Digium Asterisk.,
+28556,DNS: Microsoft DNS Server Response ValidationVulnerability,This filter detects an attempt toexploit a DNS Server Response Validation Vulnerability in Microsoft DNS Server.,CVE-2009-0234 CVSS 6.4
+28609,HTTP: Squid Proxy Usage,This filter detects usage of theSquid web proxy application.,
+28610,HTTP: Microsoft Embedded OpenType EOT Font IntegerOverflow Vulnerability,This filter detects an attempt toexploit a privilege escalation vulnerability in Microsoft Windows.,CVE-2010-1883 CVSS 9.3
+28612,HTTP: Mozilla Firefox Animated PNG Integer OverflowVulnerability,This filter detects an attempt toexploit an integer overflow vulnerability in Mozilla Firefox.,CVE-2008-4064 CVSS 10.0
+28625,HTTP: JavaScript Compressor Tool Usage,This filter detects usage of DeanEdward's JavaScript compressor tool.,
+28627,HTTP: Microsoft Windows NTFS $MFT Denial-of-ServiceVulnerability,This filter detects an attempt toexploit a denial-of-service vulnerability in Microsoft Windows.,
+28632,OpenVPN: OpenVPN P_CONTROL Denial-of-ServiceVulnerability,This filter detects an attempt toexploit a denial-of-service vulnerability in OpenVPN.,CVE-2017-7478 CVSS 5.0
+28633,HTTP: HPE Network Automation FileServlet InformationDisclosure Vulnerability (ZDI-17-330),This filter detects an attempt toexploit an information disclosure vulnerability in HPE Network Automation.,CVE-2017-5811
+28634,HTTPS: HPE Network Automation FileServlet InformationDisclosure Vulnerability (ZDI-17-330),This filter detects an attempt toexploit an information disclosure vulnerability in HPE Network Automation.,CVE-2017-5811
+28635,HTTP: JustSystems Ichitaro Buffer OverflowVulnerability,This filter detects an attempt toexploit a buffer overflow vulnerability in JustSystems Ichitaro.,CVE-2017-2790 CVSS 7.5
+28636,HTTP: Boonex Dolphin Cookie Authentication BypassVulnerability,This filter detects an attempt toexploit an authentication bypass vulnerability in Boonex Dolphin.,
+28638,DNS: TeamViewer Remote Access Tool DNS Request,This filter detects a DNS requestfrom the TeamViewer Remote Access Tool.,
+28639,HTTP: TeamViewer Beacon,This filter detects a HTTPrequest from the TeamViewer Remote Access Tool.,
+28640,TLS: TeamViewer Remote Access Tool CertificateExchange,This filter detects a certificateexchange from the TeamViewer Remote Access Tool and the TeamViewer Servers.,
+28641,Tunneling: TeamViewer Remote Access (UDP),This filter detects anestablished connection between two endpoints using the TeamViewer Remote AccessTool.,
+28642,Tunneling: TeamViewer Remote Access (ICMP),This filter detects anestablished connection between two endpoints using the TeamViewer Remote AccessTool.,
+28644,DNS: Request for ddns Domain,This filter detects a DNS requestto a dynamic DNS (ddns) domain.,
+28645,DNS: Request for gotdns Domain,This filter detects a DNS requestto a dynamic DNS (gotdns) domain.,
+28646,DNS: Request for no-ip Domain,This filter detects a DNS requestto a dynamic DNS (no-ip) domain.,
+28647,DNS: Request for dyndns Domain,This filter detects a DNS requestto a dynamic DNS (dyndns) domain.,
+28648,DNS: Request for dyndns Subdomain,This filter detects a DNS requestto a dynamic DNS (dyndns) domain.,
+28649,DNS: Request for dyndns Subdomain,This filter detects a DNS requestto a dynamic DNS (dyndns) domain.,
+28650,DNS: Request for dyndns Subdomain,This filter detects a DNS requestto a dynamic DNS (dyndns) domain.,
+28651,DNS: Request for dyndns Subdomain,This filter detects a DNS requestto a dynamic DNS (dyndns) domain.,
+28652,DNS: Request for dyndns Subdomain,This filter detects a DNS requestto a dynamic DNS (dyndns) domain.,
+28653,DNS: Request for dyndns Subdomain,This filter detects a DNS requestto a dynamic DNS (dyndns) domain.,
+28654,ZDI-CAN-4733: Zero Day Initiative Vulnerability (AdobeAcrobat Pro DC),This filter provides protectionagainst exploitation of a zero-day vulnerability affecting Adobe Acrobat ProDC.,
+28656,HTTP: Adobe Flash Video Memory CorruptionVulnerability,This filter detects an attempt toexploit a memory corruption vulnerability in Adobe Flash.,CVE-2017-3076
+28657,HTTP: Adobe Flash Adobe Texture Format Data MemoryCorruption Vulnerability,This filter detects an attempt toexploit a memory corruption vulnerability in Adobe Flash.,CVE-2017-3078
+28658,HTTP: Adobe Flash Bitmap Data Memory CorruptionVulnerability,This filter detects an attempt toexploit a memory corruption vulnerability in Adobe Flash.,CVE-2017-3079
+28659,HTTP: Adobe Flash Display Object Use-After-FreeVulnerability,This filter detects an attempt toexploit a use-after-free vulnerability in Adobe Flash.,CVE-2017-3081
+28660,HTTP: Adobe Flash determinePreferredLocales MemoryCorruption Vulnerability (ZDI-17-408),This filter detects an attempt toexploit a memory corruption vulnerability in Adobe Flash.,CVE-2017-3082
+28661,HTTP: Adobe Flash Profile Objects Use-After-FreeVulnerability (ZDI-17-406),This filter detects an attempt toexploit a use-after-free vulnerability in Adobe Flash.,CVE-2017-3083
+28662,HTTP: Adobe Flash AdvertisingMetadata Use-After-FreeVulnerability (ZDI-17-407),This filter detects an attempt toexploit a use-after-free vulnerability in Adobe Flash.,CVE-2017-3084
+28663,ZDI-CAN-4734: Zero Day Initiative Vulnerability(Adobe Acrobat Pro DC),This filter provides protectionagainst exploitation of a zero-day vulnerability affecting Adobe Acrobat ProDC.,
+28664,ZDI-CAN-4746: Zero Day Initiative Vulnerability(Adobe Acrobat Pro DC),This filter provides protection againstexploitation of a zero-day vulnerability affecting Adobe Acrobat Pro DC.,
+28666,ZDI-CAN-4747: Zero Day Initiative Vulnerability(Adobe Acrobat Pro DC),This filter provides protectionagainst exploitation of a zero-day vulnerability affecting Adobe Acrobat ProDC.,
+28667,UDP: Siemens SIPROTEC Denial-of-Service Vulnerability,This filter detects an attempt toexploit a denial-of-service vulnerability in Siemens SIPROTEC.,CVE-2015-5374 CVSS 6.8
+28668,ZDI-CAN-4767: Zero Day Initiative Vulnerability(Adobe Acrobat Pro DC),This filter provides protectionagainst exploitation of a zero-day vulnerability affecting Adobe Acrobat ProDC.,
+28669,HTTP: Adobe Flash PNG Image IHDR Memory CorruptionVulnerability,This filter detects an attempt toexploit a memory corruption vulnerability in Adobe Flash.,CVE-2017-3077
+28670,HTTP: Adobe Photoshop BMP Image Header BufferOverflow Vulnerability,This filter detects an attempt toexploit a buffer overflow vulnerability in Adobe Photoshop.,CVE-2008-1765 CVSS 9.3
+28671,DNS: DNS ANY Query with NXDOMAIN Response,This filter detects a DNS ANYquery with a response of NXDOMAIN.,CVE-2009-0234
+28723,ZDI-CAN-4780: Zero Day Initiative Vulnerability(Trend Micro Mobile Security for Enterprise),This filter provides protectionagainst exploitation of a zero-day vulnerability affecting Trend Micro MobileSecurity for Enterprise.,
+28724,ZDI-CAN-4784-4785,4805: Zero Day InitiativeVulnerability (Trend Micro Mobile Security),This filter provides protectionagainst exploitation of a zero-day vulnerability affecting Trend Micro MobileSecurity for Enterprise.,
+28729,ZDI-CAN-4826: Zero Day Initiative Vulnerability(Microsoft Chakra),This filter provides protectionagainst exploitation of a zero-day vulnerability affecting Microsoft Chakra.,
+28730,ZDI-CAN-4827: Zero Day Initiative Vulnerability(Adobe Acrobat Pro DC),This filter provides protectionagainst exploitation of a zero-day vulnerability affecting Adobe Acrobat ProDC.,
+28731,ZDI-CAN-4828: Zero Day Initiative Vulnerability(Adobe Acrobat Pro DC),This filter provides protectionagainst exploitation of a zero-day vulnerability affecting Adobe Acrobat ProDC.,
+28732,ZDI-CAN-4829: Zero Day Initiative Vulnerability(Adobe Acrobat Pro DC),This filter provides protectionagainst exploitation of a zero-day vulnerability affecting Adobe Acrobat ProDC.,
+28733,ZDI-CAN-4830: Zero Day Initiative Vulnerability(Adobe Acrobat Pro DC),This filter provides protectionagainst exploitation of a zero-day vulnerability affecting Adobe Acrobat ProDC.,
+28734,ZDI-CAN-4842: Zero Day Initiative Vulnerability(Adobe Acrobat Pro DC),This filter provides protectionagainst exploitation of a zero-day vulnerability affecting Adobe Acrobat ProDC.,
+28735,ZDI-CAN-4843: Zero Day Initiative Vulnerability(Adobe Acrobat Pro DC),This filter provides protectionagainst exploitation of a zero-day vulnerability affecting Adobe Acrobat ProDC.,
+28736,ZDI-CAN-4844: Zero Day Initiative Vulnerability (AdobeAcrobat Pro DC),This filter provides protectionagainst exploitation of a zero-day vulnerability affecting Adobe Acrobat ProDC.,
+28737,ZDI-CAN-4845: Zero Day Initiative Vulnerability(Microsoft Office Word),This filter provides protectionagainst exploitation of a zero-day vulnerability affecting Microsoft OfficeWord.,
+28740,ZDI-CAN-4853: Zero Day Initiative Vulnerability(Hewlett Packard Enterprise Intelligent Management),This filter provides protectionagainst exploitation of a zero-day vulnerability affecting Hewlett PackardEnterprise Intelligent Management Center.,
+28741,ZDI-CAN-4854: Zero Day Initiative Vulnerability(Adobe Acrobat Pro DC),This filter provides protectionagainst exploitation of a zero-day vulnerability affecting Adobe Acrobat ProDC.,

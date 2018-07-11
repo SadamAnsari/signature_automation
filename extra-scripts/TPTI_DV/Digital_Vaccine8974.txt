@@ -1,0 +1,17 @@
+sign_id,alarm_name,alarm_desc,CV_Exposures
+29045,HTTP: Internet Explorer VarType Memory CorruptionVulnerability,This filter detects an attempt toexploit a memory corruption vulnerability in Internet Explorer.,CVE-2017-8618
+29046,HTTP: Microsoft Internet Explorer SVG foreignObjectType Confusion Vulnerability,This filter detects an attempt toexploit a type confusion vulnerability in Microsoft Internet Explorer.,CVE-2017-8594
+29047,HTTP: Microsoft Edge Uint8ClampedArray Type ConfusionVulnerability,This filter detects an attempt toexploit a type confusion vulnerability in Microsoft Edge.,CVE-2017-8601
+29048,HTTP: Internet Explorer CORS Header Policy BypassVulnerability,This filter detects an attempt toexploit a policy bypass vulnerability in Internet Explorer.,CVE-2017-8592
+29049,HTTP: Microsoft Edge DataView Use-After-FreeVulnerability,This filter detects an attempt toexploit a use-after-free vulnerability in Microsoft Edge.,CVE-2017-8605
+29050,HTTP: Microsoft Edge constructor Memory CorruptionVulnerability,This filter detects an attempt toexploit a memory corruption vulnerability in Microsoft Edge.,CVE-2017-8598
+29051,HTTP: Microsoft Word Memory Corruption Vulnerability,This filter detects an attempt toexploit a memory corruption vulnerability in Microsoft Word.,CVE-2017-0243
+29054,HTTP: Microsoft Windows gdi32 Privilege EscalationVulnerability,This filter detects an attempt toexploit a privilege escalation vulnerability in Microsoft Windows.,CVE-2017-8577
+29055,HTTP: Microsoft Windows gdi32 Privilege EscalationVulnerability,This filter detects an attempt toexploit a privilege escalation vulnerability in Microsoft Windows.,CVE-2017-8578
+29056,HTTP: Microsoft Edge Lang Use-After-FreeVulnerability,This filter detects an attempt toexploit a use-after-free vulnerability in Microsoft Edge.,CVE-2017-8617
+29057,HTTP: Microsoft Edge ArrayBuffer Memory CorruptionVulnerability,This filter detects an attempt toexploit a memory corruption vulnerability in Microsoft Edge.,CVE-2017-8619
+29060,ZDI-CAN-4892: Zero Day Initiative Vulnerability(Linksys WVBR0),This filter provides protectionagainst exploitation of a zero-day vulnerability affecting Linksys WVBR0.,
+29068,HTTP: Apache Struts 2 Struts 1 Plugin CommandInjection Vulnerability,This filter detects an attempt toexploit a command injection vulnerability in Apache Struts 2.,CVE-2017-9791
+29070,HTTP: Apache Struts 2 Struts 1 SaveGangster.actionShowcase Site Access,This filter detects an HTTP POSTattempt to the SaveGangster.action showcase page.,CVE-2017-9791
+29072,HTTP: Apache Struts 2 Suspicious opensymphony Actions,This filter detects use of theopensymphony addHeader and setContentType actions.,CVE-2017-9791
+29073,HTTP: Apache Struts 2 Echo Command Usage in OGNLValues,This filter detects the usage ofan echo command within a Struts OGNL value.,CVE-2017-9791

@@ -1,0 +1,6 @@
+sign_id,name
+44096,MS.Office.EPS.File.Handling.Use.After.Free
+44097,MS.Windows.SMB1.Out.of.Bounds.Read.Information.Disclosure
+44100,MS.Windows.NTFS.File.System.MFT.Malformed.Path.DoS
+44098,Serviio.Media.Server.REST.API.Information.Disclosure
+44099,Serviio.Media.Server.REST.API.Arbitrary.Password.Modification

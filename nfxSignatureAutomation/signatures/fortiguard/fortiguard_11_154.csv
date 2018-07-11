@@ -1,0 +1,16 @@
+sign_id,name
+44041,BuilderEngine.elFinder.Arbitrary.File.Upload
+44050,Mozilla.Firefox.WebGL.ReadPixels.Handling.Integer.Overflow
+44051,MantisBT.Verify.Php.Confirm_hash.Security.Bypass
+43986,Mozilla.Firefox.HTTP.Index.Format.File.Information.Disclosure
+43985,Exponent.CMS.EaasController.API.Function.SQL.Injection
+43795,MS.SMB.Server.SMB1.MID.FID.Parsing.Remote.Code.Execution
+43987,Oracle.Fusion.Middleware.MapViewer.Directory.Traversal
+44055,Backdoor.Empire
+44040,Sync.Breeze.Enterprise.GET.Buffer.Overflow
+44042,Serviio.Media.Server.checkStreamUrl.Command.Execution
+44056,FG-VD-17-063_Nextcloud.0day
+44049,Zabbix.Server.Active.Proxy.Trapper.Command.Injection
+44043,MediaWiki.SyntaxHighlight.Extend.Option.Remote.Code.Injection
+44039,Oracle.MySQL.Authentication.Integer.Overflow
+44047,IBM.Domino.Server.IMAP.EXAMINE.Command.Stack.Buffer.Overflow

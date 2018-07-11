@@ -1,0 +1,19 @@
+sign_id,name
+HTTP:STC:DL:CVE-2017-0215-SB,HTTP: Microsoft Device Guard and Powershell CVE-2017-0215 Security Bypass
+SSL:TREND-MICRO-CI,SSL: Trend Micro IWSVA ManageSRouteSettings HttpServlet Command Injection
+HTTP:STC:IE:CVE-2017-8496-RCE,HTTP: Microsoft Edge CVE-2017-8496 Remote Code Execution
+HTTP:STC:IE:CVE-2017-8547-RCE,HTTP: Microsoft Internet Explorer CVE-2017-8547 Remote Code Execution
+HTTP:STC:IE:CVE-2017-8524-RCE,HTTP: Microsoft Edge CVE-2017-8524 Remote Code Execution
+HTTP:STC:DL:CVE-2017-8509-UAF,HTTP: Microsoft Word CVE-2017-8509 Use After Free
+HTTP:STC:DL:CVE-2017-8466-PE,HTTP: Microsoft Windows CVE-2017-8466 Privilege Escalation
+HTTP:STC:DL:CVE-2017-8465-EOP,HTTP: Microsoft Windows CVE-2017-8465 Elevation of Privileges
+HTTP:STC:CVE-2017-8510-RCE,HTTP: Microsoft Word CVE-2017-8510 Remote Code Execution
+HTTP:STC:IE:CVE-2017-8529-ID,HTTP: Microsoft IE and Edge CVE-2017-8529 Information Disclosure
+SCADA:CLEARSCADA-AB,SCADA: ClearSCADA 'dbserver.exe' Remote Authentication Bypass
+HTTP:STC:DL:CVE-2017-8464-RCE,HTTP: Microsoft Windows Explorer CVE-2017-8464 Remote Code Execution
+HTTP:STC:IE-BUFFER-OVERFLOW2,HTTP: Internet Explorer Buffer Overflow (2)
+SMB:CVE-2017-0143-MC,SMB: Microsoft Windows SMB Server SMBv1 CVE-2017-0143 Memory Corruption
+HTTP:STC:IE:CVE-2017-8497-RCE,HTTP: Microsoft Edge CVE-2017-8497 Remote Code Execution
+HTTP:TREND-IWSVA-CI,HTTP: Trend Micro IWSVA ManageSRouteSettings HttpServlet Command Injection
+HTTP:STC:DL:CVE-2017-8468-EOP,HTTP: Microsoft Windows CVE-2017-8468 Privilege Elevation
+HTTP:HP-RC-CVE-2014-2612-ID,HTTP: HP Release Control CVE-2014-2612 Information Disclosure

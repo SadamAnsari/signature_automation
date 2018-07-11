@@ -1,0 +1,391 @@
+sign_id,name
+42636,XOR 0x8f encrypted portable executable file download attempt
+42698,XOR 0xcd encrypted portable executable file download attempt
+42680,XOR 0xbb encrypted portable executable file download attempt
+42729,XOR 0xec encrypted portable executable file download attempt
+42695,XOR 0xca encrypted portable executable file download attempt
+42564,XOR 0x47 encrypted portable executable file download attempt
+42519,XOR 0x1a encrypted portable executable file download attempt
+42566,XOR 0x49 encrypted portable executable file download attempt
+42567,XOR 0x4a encrypted portable executable file download attempt
+42560,XOR 0x43 encrypted portable executable file download attempt
+42561,XOR 0x44 encrypted portable executable file download attempt
+42449,Microsoft Internet Explorer deleted object access memory corruption attempt
+42448,Microsoft Internet Explorer deleted object access memory corruption attempt
+42447,Win.Trojan.Batlopma variant outbound connection attempt
+42446,Microsoft Jet DB Engine Buffer Overflow attempt
+42445,Microsoft Jet DB Engine Buffer Overflow attempt
+42444,Microsoft Jet DB Engine Buffer Overflow attempt
+42443,Microsoft Jet DB Engine Buffer Overflow attempt
+42442,Microsoft Jet DB Engine Buffer Overflow attempt
+42441,Microsoft Jet DB Engine Buffer Overflow attempt
+42440,Microsoft Jet DB Engine Buffer Overflow attempt
+42699,XOR 0xce encrypted portable executable file download attempt
+42637,XOR 0x90 encrypted portable executable file download attempt
+42609,XOR 0x74 encrypted portable executable file download attempt
+42608,XOR 0x73 encrypted portable executable file download attempt
+42689,XOR 0xc4 encrypted portable executable file download attempt
+42601,XOR 0x6c encrypted portable executable file download attempt
+42600,XOR 0x6b encrypted portable executable file download attempt
+42603,XOR 0x6e encrypted portable executable file download attempt
+42602,XOR 0x6d encrypted portable executable file download attempt
+42605,XOR 0x70 encrypted portable executable file download attempt
+42604,XOR 0x6f encrypted portable executable file download attempt
+42607,XOR 0x72 encrypted portable executable file download attempt
+42606,XOR 0x71 encrypted portable executable file download attempt
+42688,XOR 0xc3 encrypted portable executable file download attempt
+42712,XOR 0xdb encrypted portable executable file download attempt
+42723,XOR 0xe6 encrypted portable executable file download attempt
+42511,XOR 0x12 encrypted portable executable file download attempt
+42510,XOR 0x11 encrypted portable executable file download attempt
+42513,XOR 0x14 encrypted portable executable file download attempt
+42512,XOR 0x13 encrypted portable executable file download attempt
+42515,XOR 0x16 encrypted portable executable file download attempt
+42514,XOR 0x15 encrypted portable executable file download attempt
+42517,XOR 0x18 encrypted portable executable file download attempt
+42516,XOR 0x17 encrypted portable executable file download attempt
+42450,Microsoft Internet Explorer deleted object access memory corruption attempt
+42451,MCA Sistemas ScadaBR index.php brute force login attempt
+42452,Win.Trojan.Frethog variant outbound connection attempt
+42453,Win.Trojan.Frethog variant inbound connection attempt
+42454,User-Agent known malicious user-agent string - Frethog
+42455,Unitrends Enterprise Backup Appliance password.php command injection attempt
+42456,Unitrends Enterprise Backup Appliance password.php command injection attempt
+42457,Unitrends Enterprise Backup Appliance password.php command injection attempt
+42681,XOR 0xbc encrypted portable executable file download attempt
+42747,XOR 0xfe encrypted portable executable file download attempt
+42565,XOR 0x48 encrypted portable executable file download attempt
+42458,ISC BIND unexpected DNAME CNAME ordering denial of service attempt
+42740,XOR 0xf7 encrypted portable executable file download attempt
+42683,XOR 0xbe encrypted portable executable file download attempt
+42741,XOR 0xf8 encrypted portable executable file download attempt
+42599,XOR 0x6a encrypted portable executable file download attempt
+42598,XOR 0x69 encrypted portable executable file download attempt
+42618,XOR 0x7d encrypted portable executable file download attempt
+42619,XOR 0x7e encrypted portable executable file download attempt
+42742,XOR 0xf9 encrypted portable executable file download attempt
+42727,XOR 0xea encrypted portable executable file download attempt
+42591,XOR 0x62 encrypted portable executable file download attempt
+42590,XOR 0x61 encrypted portable executable file download attempt
+42593,XOR 0x64 encrypted portable executable file download attempt
+42592,XOR 0x63 encrypted portable executable file download attempt
+42595,XOR 0x66 encrypted portable executable file download attempt
+42594,XOR 0x65 encrypted portable executable file download attempt
+42597,XOR 0x68 encrypted portable executable file download attempt
+42596,XOR 0x67 encrypted portable executable file download attempt
+42562,XOR 0x45 encrypted portable executable file download attempt
+42459,Adobe Reader PDF embedded null JPEG image
+42646,XOR 0x99 encrypted portable executable file download attempt
+42563,XOR 0x46 encrypted portable executable file download attempt
+42502,XOR 0x09 encrypted portable executable file download attempt
+42503,XOR 0x0a encrypted portable executable file download attempt
+42500,XOR 0x07 encrypted portable executable file download attempt
+42501,XOR 0x08 encrypted portable executable file download attempt
+42506,XOR 0x0d encrypted portable executable file download attempt
+42507,XOR 0x0e encrypted portable executable file download attempt
+42504,XOR 0x0b encrypted portable executable file download attempt
+42505,XOR 0x0c encrypted portable executable file download attempt
+42508,XOR 0x0f encrypted portable executable file download attempt
+42509,XOR 0x10 encrypted portable executable file download attempt
+42653,XOR 0xa0 encrypted portable executable file download attempt
+42627,XOR 0x86 encrypted portable executable file download attempt
+42626,XOR 0x85 encrypted portable executable file download attempt
+42625,XOR 0x84 encrypted portable executable file download attempt
+42624,XOR 0x83 encrypted portable executable file download attempt
+42623,XOR 0x82 encrypted portable executable file download attempt
+42622,XOR 0x81 encrypted portable executable file download attempt
+42621,XOR 0x80 encrypted portable executable file download attempt
+42620,XOR 0x7f encrypted portable executable file download attempt
+42568,XOR 0x4b encrypted portable executable file download attempt
+42687,XOR 0xc2 encrypted portable executable file download attempt
+42629,XOR 0x88 encrypted portable executable file download attempt
+42569,XOR 0x4c encrypted portable executable file download attempt
+42588,XOR 0x5f encrypted portable executable file download attempt
+42589,XOR 0x60 encrypted portable executable file download attempt
+42748,XOR 0xff encrypted portable executable file download attempt
+42582,XOR 0x59 encrypted portable executable file download attempt
+42583,XOR 0x5a encrypted portable executable file download attempt
+42580,XOR 0x57 encrypted portable executable file download attempt
+42581,XOR 0x58 encrypted portable executable file download attempt
+42586,XOR 0x5d encrypted portable executable file download attempt
+42587,XOR 0x5e encrypted portable executable file download attempt
+42584,XOR 0x5b encrypted portable executable file download attempt
+42585,XOR 0x5c encrypted portable executable file download attempt
+42640,XOR 0x93 encrypted portable executable file download attempt
+42745,XOR 0xfc encrypted portable executable file download attempt
+42651,XOR 0x9e encrypted portable executable file download attempt
+42612,XOR 0x77 encrypted portable executable file download attempt
+42539,XOR 0x2e encrypted portable executable file download attempt
+42538,XOR 0x2d encrypted portable executable file download attempt
+42537,XOR 0x2c encrypted portable executable file download attempt
+42536,XOR 0x2b encrypted portable executable file download attempt
+42535,XOR 0x2a encrypted portable executable file download attempt
+42534,XOR 0x29 encrypted portable executable file download attempt
+42533,XOR 0x28 encrypted portable executable file download attempt
+42532,XOR 0x27 encrypted portable executable file download attempt
+42531,XOR 0x26 encrypted portable executable file download attempt
+42530,XOR 0x25 encrypted portable executable file download attempt
+42630,XOR 0x89 encrypted portable executable file download attempt
+42631,XOR 0x8a encrypted portable executable file download attempt
+42632,XOR 0x8b encrypted portable executable file download attempt
+42611,XOR 0x76 encrypted portable executable file download attempt
+42634,XOR 0x8d encrypted portable executable file download attempt
+42635,XOR 0x8e encrypted portable executable file download attempt
+42438,IBM Domino BMP parsing integer overflow attempt
+42439,Win.Trojan.Axespec outbound request
+42436,TRUFFLEHUNTER TALOS-2017-0330 attack attempt
+42437,TRUFFLEHUNTER TALOS-2017-0331 attack attempt
+42434,TRUFFLEHUNTER TALOS-2017-0328 attack attempt
+42435,TRUFFLEHUNTER TALOS-2017-0330 attack attempt
+42432,TRUFFLEHUNTER TALOS-2017-0328 attack attempt
+42433,TRUFFLEHUNTER TALOS-2017-0328 attack attempt
+42617,XOR 0x7c encrypted portable executable file download attempt
+42739,XOR 0xf6 encrypted portable executable file download attempt
+42738,XOR 0xf5 encrypted portable executable file download attempt
+42614,XOR 0x79 encrypted portable executable file download attempt
+42732,XOR 0xef encrypted portable executable file download attempt
+42731,XOR 0xee encrypted portable executable file download attempt
+42730,XOR 0xed encrypted portable executable file download attempt
+42733,XOR 0xf0 encrypted portable executable file download attempt
+42615,XOR 0x7a encrypted portable executable file download attempt
+42735,XOR 0xf2 encrypted portable executable file download attempt
+42734,XOR 0xf1 encrypted portable executable file download attempt
+42737,XOR 0xf4 encrypted portable executable file download attempt
+42736,XOR 0xf3 encrypted portable executable file download attempt
+42725,XOR 0xe8 encrypted portable executable file download attempt
+42713,XOR 0xdc encrypted portable executable file download attempt
+42718,XOR 0xe1 encrypted portable executable file download attempt
+42744,XOR 0xfb encrypted portable executable file download attempt
+42463,Foxit Reader malformed DataSubBlock size attempt
+42528,XOR 0x23 encrypted portable executable file download attempt
+42529,XOR 0x24 encrypted portable executable file download attempt
+42686,XOR 0xc1 encrypted portable executable file download attempt
+42613,XOR 0x78 encrypted portable executable file download attempt
+42520,XOR 0x1b encrypted portable executable file download attempt
+42521,XOR 0x1c encrypted portable executable file download attempt
+42522,XOR 0x1d encrypted portable executable file download attempt
+42523,XOR 0x1e encrypted portable executable file download attempt
+42524,XOR 0x1f encrypted portable executable file download attempt
+42525,XOR 0x20 encrypted portable executable file download attempt
+42526,XOR 0x21 encrypted portable executable file download attempt
+42527,XOR 0x22 encrypted portable executable file download attempt
+42645,XOR 0x98 encrypted portable executable file download attempt
+42644,XOR 0x97 encrypted portable executable file download attempt
+42628,XOR 0x87 encrypted portable executable file download attempt
+42647,XOR 0x9a encrypted portable executable file download attempt
+42483,Edimax 802.11AC repeater command injection attempt
+42482,Edimax 802.11AC repeater command injection attempt
+42481,Edimax 802.11AC repeater command injection attempt
+42480,Edimax 802.11AC repeater command injection attempt
+42487,Edimax 802.11AC repeater command injection attempt
+42486,Edimax 802.11AC repeater command injection attempt
+42485,Edimax 802.11AC repeater command injection attempt
+42484,Edimax 802.11AC repeater command injection attempt
+42722,XOR 0xe5 encrypted portable executable file download attempt
+42641,XOR 0x94 encrypted portable executable file download attempt
+42489,Cisco Aironet Mobility Express PnP agent directory traversal attempt
+42488,Edimax 802.11AC repeater command injection attempt
+42649,XOR 0x9c encrypted portable executable file download attempt
+42648,XOR 0x9b encrypted portable executable file download attempt
+42724,XOR 0xe7 encrypted portable executable file download attempt
+42638,XOR 0x91 encrypted portable executable file download attempt
+42643,XOR 0x96 encrypted portable executable file download attempt
+42746,XOR 0xfd encrypted portable executable file download attempt
+42721,XOR 0xe4 encrypted portable executable file download attempt
+42642,XOR 0x95 encrypted portable executable file download attempt
+42696,XOR 0xcb encrypted portable executable file download attempt
+42633,XOR 0x8c encrypted portable executable file download attempt
+42707,XOR 0xd6 encrypted portable executable file download attempt
+42728,XOR 0xeb encrypted portable executable file download attempt
+42719,XOR 0xe2 encrypted portable executable file download attempt
+42708,XOR 0xd7 encrypted portable executable file download attempt
+42720,XOR 0xe3 encrypted portable executable file download attempt
+42717,XOR 0xe0 encrypted portable executable file download attempt
+42716,XOR 0xdf encrypted portable executable file download attempt
+42715,XOR 0xde encrypted portable executable file download attempt
+42714,XOR 0xdd encrypted portable executable file download attempt
+42559,XOR 0x42 encrypted portable executable file download attempt
+42558,XOR 0x41 encrypted portable executable file download attempt
+42711,XOR 0xda encrypted portable executable file download attempt
+42710,XOR 0xd9 encrypted portable executable file download attempt
+42555,XOR 0x3e encrypted portable executable file download attempt
+42554,XOR 0x3d encrypted portable executable file download attempt
+42557,XOR 0x40 encrypted portable executable file download attempt
+42556,XOR 0x3f encrypted portable executable file download attempt
+42551,XOR 0x3a encrypted portable executable file download attempt
+42550,XOR 0x39 encrypted portable executable file download attempt
+42553,XOR 0x3c encrypted portable executable file download attempt
+42552,XOR 0x3b encrypted portable executable file download attempt
+42656,XOR 0xa3 encrypted portable executable file download attempt
+42616,XOR 0x7b encrypted portable executable file download attempt
+42654,XOR 0xa1 encrypted portable executable file download attempt
+42655,XOR 0xa2 encrypted portable executable file download attempt
+42498,XOR 0x05 encrypted portable executable file download attempt
+42499,XOR 0x06 encrypted portable executable file download attempt
+42650,XOR 0x9d encrypted portable executable file download attempt
+42639,XOR 0x92 encrypted portable executable file download attempt
+42494,XOR 0x01 encrypted portable executable file download attempt
+42495,XOR 0x02 encrypted portable executable file download attempt
+42496,XOR 0x03 encrypted portable executable file download attempt
+42497,XOR 0x04 encrypted portable executable file download attempt
+42490,Intel AMT remote administration tool access attempt
+42491,Intel AMT remote administration tool access attempt
+42492,Intel AMT DHCP boot request detected
+42493,Cisco CVR100W VPN Router SSDP uuid stack buffer overflow attempt
+42659,XOR 0xa6 encrypted portable executable file download attempt
+42690,XOR 0xc5 encrypted portable executable file download attempt
+42694,XOR 0xc9 encrypted portable executable file download attempt
+42461,Unitrends Enterprise Backup Appliance reports.php PHP file injection attempt
+42460,Adobe Reader PDF embedded null JPEG image
+42697,XOR 0xcc encrypted portable executable file download attempt
+42462,Unitrends Enterprise Backup Appliance reports.php directory traversal attempt
+42465,triple dot directory traversal attempt
+42464,Foxit Reader malformed DataSubBlock size attempt
+42467,Edimax 802.11AC repeater command injection attempt
+42466,WinRadius long password denial of service attempt
+42469,Edimax 802.11AC repeater command injection attempt
+42468,Edimax 802.11AC repeater command injection attempt
+42658,XOR 0xa5 encrypted portable executable file download attempt
+42682,XOR 0xbd encrypted portable executable file download attempt
+42701,XOR 0xd0 encrypted portable executable file download attempt
+42702,XOR 0xd1 encrypted portable executable file download attempt
+42703,XOR 0xd2 encrypted portable executable file download attempt
+42704,XOR 0xd3 encrypted portable executable file download attempt
+42705,XOR 0xd4 encrypted portable executable file download attempt
+42548,XOR 0x37 encrypted portable executable file download attempt
+42549,XOR 0x38 encrypted portable executable file download attempt
+42546,XOR 0x35 encrypted portable executable file download attempt
+42547,XOR 0x36 encrypted portable executable file download attempt
+42544,XOR 0x33 encrypted portable executable file download attempt
+42545,XOR 0x34 encrypted portable executable file download attempt
+42542,XOR 0x31 encrypted portable executable file download attempt
+42543,XOR 0x32 encrypted portable executable file download attempt
+42540,XOR 0x2f encrypted portable executable file download attempt
+42541,XOR 0x30 encrypted portable executable file download attempt
+42663,XOR 0xaa encrypted portable executable file download attempt
+42662,XOR 0xa9 encrypted portable executable file download attempt
+42661,XOR 0xa8 encrypted portable executable file download attempt
+42660,XOR 0xa7 encrypted portable executable file download attempt
+42667,XOR 0xae encrypted portable executable file download attempt
+42666,XOR 0xad encrypted portable executable file download attempt
+42665,XOR 0xac encrypted portable executable file download attempt
+42664,XOR 0xab encrypted portable executable file download attempt
+42669,XOR 0xb0 encrypted portable executable file download attempt
+42668,XOR 0xaf encrypted portable executable file download attempt
+42685,XOR 0xc0 encrypted portable executable file download attempt
+42700,XOR 0xcf encrypted portable executable file download attempt
+42652,XOR 0x9f encrypted portable executable file download attempt
+42472,Edimax 802.11AC repeater command injection attempt
+42473,Edimax 802.11AC repeater command injection attempt
+42470,Edimax 802.11AC repeater command injection attempt
+42471,Edimax 802.11AC repeater command injection attempt
+42476,malformed embedded JPEG2000 image information disclosure attempt
+42477,Edimax 802.11AC repeater command injection attempt
+42474,Edimax 802.11AC repeater command injection attempt
+42475,malformed embedded JPEG2000 image information disclosure attempt
+42478,Edimax 802.11AC repeater command injection attempt
+42479,Edimax 802.11AC repeater command injection attempt
+42684,XOR 0xbf encrypted portable executable file download attempt
+42743,XOR 0xfa encrypted portable executable file download attempt
+42657,XOR 0xa4 encrypted portable executable file download attempt
+42726,XOR 0xe9 encrypted portable executable file download attempt
+42692,XOR 0xc7 encrypted portable executable file download attempt
+42579,XOR 0x56 encrypted portable executable file download attempt
+42578,XOR 0x55 encrypted portable executable file download attempt
+42706,XOR 0xd5 encrypted portable executable file download attempt
+42693,XOR 0xc8 encrypted portable executable file download attempt
+42573,XOR 0x50 encrypted portable executable file download attempt
+42572,XOR 0x4f encrypted portable executable file download attempt
+42571,XOR 0x4e encrypted portable executable file download attempt
+42570,XOR 0x4d encrypted portable executable file download attempt
+42577,XOR 0x54 encrypted portable executable file download attempt
+42576,XOR 0x53 encrypted portable executable file download attempt
+42575,XOR 0x52 encrypted portable executable file download attempt
+42574,XOR 0x51 encrypted portable executable file download attempt
+42610,XOR 0x75 encrypted portable executable file download attempt
+42691,XOR 0xc6 encrypted portable executable file download attempt
+42678,XOR 0xb9 encrypted portable executable file download attempt
+42679,XOR 0xba encrypted portable executable file download attempt
+42518,XOR 0x19 encrypted portable executable file download attempt
+42709,XOR 0xd8 encrypted portable executable file download attempt
+42674,XOR 0xb5 encrypted portable executable file download attempt
+42675,XOR 0xb6 encrypted portable executable file download attempt
+42676,XOR 0xb7 encrypted portable executable file download attempt
+42677,XOR 0xb8 encrypted portable executable file download attempt
+42670,XOR 0xb1 encrypted portable executable file download attempt
+42671,XOR 0xb2 encrypted portable executable file download attempt
+42672,XOR 0xb3 encrypted portable executable file download attempt
+42673,XOR 0xb4 encrypted portable executable file download attempt
+42810,Adobe Flash Player BitmapData out of bounds memory access attempt
+42811,Microsoft Edge Chakra Engine use-after-free attempt
+42812,Microsoft Edge Chakra Engine use-after-free attempt
+42813,Adobe Acrobat Reader malformed URI information disclosure attempt
+42814,Adobe Acrobat Reader malformed URI information disclosure attempt
+42815,Adobe Flash Player display object mask use after free attempt
+42816,Adobe Flash Player display object mask use after free attempt
+42817,Adobe Flash Player DisplayObject use after free attempt
+42818,Adobe Flash Player DisplayObject use after free attempt
+42819,WordPress admin password reset attempt
+42802,Adobe Acrobat Reader malformed AES key memory corruption attempt
+42763,Microsoft Windows NtTraceControl information disclosure attempt
+42788,Adobe Reader malformed app13 tag information disclosure attempt
+42789,Adobe Reader malformed app13 tag information disclosure attempt
+42820,Microsoft Malware Protection Engine type confusion attempt
+42780,Microsoft Edge CSS writing mode type confusion attempt
+42781,Microsoft Windows Edge AudioContext use after free attempt
+42782,Microsoft Windows Edge AudioContext use after free attempt
+42783,Microsoft Windows ntoskrnl information disclosure attempt
+42784,Microsoft Windows ntoskrnl information disclosure attempt
+42785,DNS version.bind string information disclosure attempt
+42786,Moxa unlock function code attempt
+42756,Microsoft Word 2010 Sepx memory corruption attempt
+42775,Microsoft Edge Chakra JIT memory corruption attempt
+42801,Adobe Flash Player ActionPush out of bounds read attempt
+42774,Microsoft Windows COM privilege escalation attempt
+42777,Microsoft Edge scripting engine security bypass css attempt
+42766,Microsoft win32k privilege escalation attempt
+42767,Microsoft Windows DeviceIoControl double fetch race condition attempt
+42764,Microsoft Windows NtTraceControl information disclosure attempt
+42765,Microsoft win32k privilege escalation attempt
+42762,Microsoft Edge Chakra array unshift heap overflow attempt
+42749,Microsoft Edge scripting engine postMessage use after free attempt
+42760,Microsoft Windows COM privilege escalation attempt
+42761,Microsoft Edge Chakra array unshift heap overflow attempt
+42771,Microsoft Windows GdiGradientFill null pointer dereference attempt
+42787,Schneider Electric hardcoded FTP login attempt
+42768,Microsoft Windows DeviceIoControl double fetch race condition attempt
+42769,Microsoft Win32k kernel memory leak attempt
+42807,Adobe Standalone Flash Player BlendMode memory corruption attempt
+42806,Rig Exploit Kit URL outbound communication
+42805,Intel AMT remote administration tool authentication bypass attempt
+42804,IntegraXor directory traversal attempt
+42803,Adobe Acrobat Reader malformed AES key memory corruption attempt
+42773,Microsoft Windows COM privilege escalation attempt
+42776,Microsoft Edge Chakra JIT memory corruption attempt
+42800,Adobe Flash Player ActionPush out of bounds read attempt
+42754,Microsoft Edge Chakra Core type confusion attempt
+42821,Microsoft Malware Protection Engine type confusion attempt
+42809,Adobe Flash Player BitmapData out of bounds memory access attempt
+42808,Adobe Standalone Flash Player BlendMode memory corruption attempt
+42799,Microsoft Edge out of bounds read attempt
+42798,Microsoft Edge out of bounds read attempt
+42797,Adobe Flash Player ConvolutionFilter memory corruption attempt
+42796,Adobe Flash Player ConvolutionFilter memory corruption attempt
+42795,Adobe Flash Player beginGradientFill color array out of bounds read attempt
+42794,Adobe Flash Player beginGradientFill color array out of bounds read attempt
+42793,Adobe Flash Player FLV invalid tag buffer overflow attempt
+42792,Adobe Flash Player FLV invalid tag buffer overflow attempt
+42791,Adobe Reader invalid object reference use after free attempt
+42790,Adobe Reader invalid object reference use after free attempt
+42753,Microsoft Edge Chakra Core type confusion attempt
+42752,Microsoft Windows AFD.sys double fetch race condition attempt
+42751,Microsoft Windows AFD.sys double fetch race condition attempt
+42750,Microsoft Edge scripting engine postMessage use after free attempt
+42757,Microsoft Windows dxgkrnl CreateDriverAllocations null pointer dereference attempt
+42770,Microsoft Win32k kernel memory leak attempt
+42755,Microsoft Word 2010 Sepx memory corruption attempt
+42772,Microsoft Windows GdiGradientFill null pointer dereference attempt
+42759,Microsoft Windows COM privilege escalation attempt
+42758,Microsoft Windows dxgkrnl CreateDriverAllocations null pointer dereference attempt
+42779,Microsoft Edge CSS writing mode type confusion attempt
+42778,Microsoft Edge scripting engine security bypass css attempt

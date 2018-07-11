@@ -1,0 +1,12 @@
+sign_id,name
+HTTP:STC:DL:VLC-MP-BO,HTTP: VideoLan VLC Media Player ParseJSS Heap Buffer Overflow
+HTTP:STC:ADOBE:CVE-2017-3076-CE,HTTP: Adobe Exe CVE-2017-3076 Remote Code Execution
+VOIP:DIGIUM-MULTIPARSE-DOS,VOIP: Digium Asterisk pjsip_multipart_parse Denial Of Service
+HTTP:IBM-INFORMIX-DS-BO,HTTP: IBM Informix Dynamic Server index.php testconn Heap Buffer Overflow
+SMB:MS-CVE-2017-0271-ID,SMB: Microsoft Windows SMB Server SMBv1 Information Disclosure
+HTTP:STC:ADOBE:CVE-2017-3077-CE,HTTP: Adobe Flash CVE-2017-3077 Remote Code Execution
+HTTP:ORACLE:CVE-2014-0379-XSS,HTTP: Oracle Demantra Stored Cross Site Scripting
+APP:HPE-IMC-FW,APP: HPE Intelligent Management Center dbman FileTrans Arbitrary File Write
+HTTP:STC:ADOBE:CVE-2017-3081-CE,HTTP: Adobe Flash CVE-2017-3081 Remote Code Execution
+HTTP:STC:ADOBE:CVE-2017-3084-CE,HTTP: Adobe Flash CVE-2017-3084 Remote Code Execution
+HTTP:STC:ADOBE:CVE-2017-3082-CE,HTTP: Adobe Flash CVE-2017-3082 Remote Code Execution

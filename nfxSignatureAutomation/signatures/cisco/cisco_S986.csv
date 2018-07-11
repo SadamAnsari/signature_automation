@@ -1,0 +1,9 @@
+sign_id,name
+7962,Adobe Flash Player Use After Free
+7973,Microsoft Edge Type Confusion
+7974,Microsoft Edge Code Execution
+7976,Microsoft Edge Scripting Engine Memory Corruption
+7971,Microsoft Internet Explorer Information Disclosure
+7970,dnaLIMS sysAdmin.cgi Arbitrary Command Execution
+7959,Adobe Flash Player Memory Corruption
+7958,Microsoft Windows SMB Remote Code Execution

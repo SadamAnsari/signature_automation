@@ -1,0 +1,4 @@
+sign_id,name
+SSL:GNUTLS-NULL-PTR-DREF,SSL: GnuTLS status_request Extension Null Pointer Dereference
+APP:HPE-IMC-RESTARTDB-CI,APP: HPE Intelligent Management Center dbman RestartDB Command Injection
+SSL:TRENDMICRO-SAFESYNC-COM-INJ,SSL: Trend Micro SafeSync for Enterprise license Command Injection

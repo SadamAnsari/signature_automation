@@ -1,0 +1,13 @@
+snort:          https://support.sourcefire.com/notices/seus
+
+juniper
+                http://www.juniper.net/us/en/security/#tab=dtabs-1
+                http://rss.juniper.net/f/100001s3n1db7dccla3.rss
+                https://signatures.juniper.net/restricted/sigupdates/nsm-updates/2846.html
+
+                https://exchange.xforce.ibmcloud.com/xpu?cm_mc_uid=75994617674314514108926&cm_mc_sid_50200000=1481720260
+Cisco:          https://tools.cisco.com/security/center/ipshome.x
+Fortiguard:     http://www.fortiguard.com/updates/ips
+Mcafee:         https://mysupport.mcafee.com/Eservice/SiteHome.aspx
+ntimbadia@netforensics.com/nfxOSP12
+

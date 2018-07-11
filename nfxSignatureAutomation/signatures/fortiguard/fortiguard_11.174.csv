@@ -1,0 +1,8 @@
+sign_id,name
+44119,Linux.Kernel.NFS.v2.v3.Malformed.Write.Information.Disclosure
+44118,HPE.Network.Automation.RedirectServlet.SQL.Injection
+44126,HPE.Network.Automation.FileServlet.Information.Disclosure
+44170,FG-VD-17-033_Cisco.0day
+44081,MS.Windows.Search.Service.Out.Of.Bounds.Code.Execution
+44167,FG-VD-17-030_Cisco.0day
+44168,FG-VD-17-031_Cisco.0day

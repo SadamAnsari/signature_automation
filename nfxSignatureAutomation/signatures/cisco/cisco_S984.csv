@@ -1,0 +1,18 @@
+sign_id,name
+7956,Unitrends Enterprise Backup Appliance Command Injection
+7968,Samba Insecure Library Loading Arbitrary Code Execution
+7961,Adobe Flash Player Memory Corruption
+7964,Adobe Flash Player Convolution Filter Memory Corruption
+7963,Adobe Flash Player Buffer Overflow
+7936,Microsoft Edge Remote Code Execution
+7958,Microsoft Windows SMB Remote Code Execution
+7926,Trend Micro Deep Discovery Inspector Command Injection
+7924,Adobe Reader Information Disclosure
+7935,EyesOfNetwork Module Command Injection
+7872,Apache Struts Remote Code Execution
+7678,Trend Micro Smart Protection Command Injection
+7947,Trend Micro Threat Discovery Appliance Command Injection
+7951,Intel AMT Remote Administration Tool Authentication Bypass
+7958,Microsoft Windows SMB Remote Code Execution
+7906,EyesOfNetwork Command Injection
+7914,Trend Micro SafeSync Command Injection
